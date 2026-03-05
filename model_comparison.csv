@@ -1,0 +1,3 @@
+Model,Valid PPL,Test PPL,Convergence Epoch,Best Valid Loss
+Vanilla RNN,169.62,153.81,30,5.1336
+LSTM,163.82,147.41,14,5.0988
